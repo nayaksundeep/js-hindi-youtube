@@ -19,7 +19,7 @@ let state;
 //null => standalone value
 //undefined =>
 // symobol = unique 
-
+ 
 
 
 //object
